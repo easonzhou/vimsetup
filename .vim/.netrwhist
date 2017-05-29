@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Library/WebServer/Documents/LTA_FASTER/CSS'
+let g:netrw_dirhist_2='/Users/yinsheng/Development/NodeJS/chat-example'
+let g:netrw_dirhist_3='/Users/yinsheng/Development/c'
+let g:netrw_dirhist_4='/Users/yinsheng/golang/src/github.com/hyperledger/fabric'
